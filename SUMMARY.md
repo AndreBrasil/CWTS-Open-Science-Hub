@@ -8,10 +8,12 @@
   * [Indicators](research-topics-1/indicators.md)
   * [Assessment](research-topics-1/assessment.md)
 
-## Sections are possible <a href="sections" id="sections"></a>
+## Knowledge Platform <a href="#platform" id="platform"></a>
 
 ***
 
-* [Embed video](embed-dashboard.md)
+* [Introduction to Open Science](embed-dashboard/README.md)
+  * [The five schools of OS](embed-dashboard/the-five-schools-of-os/README.md)
+    * [Democratic School](embed-dashboard/the-five-schools-of-os/democratic-school.md)
 * [Embed dashboard](embed-dashboard-1.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
